@@ -10,14 +10,14 @@ This is a solution to the Sunnyside agency landing page challenge on Frontend Me
 
 ### Links
 
-- [Solution URL](https://github.com/Frontend-Wizard/Sunnyside-agency-landing-page)
-- [Live Site URL](https://Frontend-Wizard.github.io/Sunnyside-agency-landing-page)
+- [Solution URL](https://github.com/Frontend-Wizard/E-commerce-product-page)
+- [Live Site URL](https://Frontend-Wizard.github.io/E-commerce-product-page)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS3 custom properties
-- Grid
+- React JS
 - Flexbox
 
 ## Author
